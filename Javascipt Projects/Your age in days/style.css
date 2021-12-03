@@ -1,0 +1,22 @@
+.container{
+ 
+ padding: 10px;
+ width: 50%;
+ margin: 10px auto;
+ background-color: blanchedalmond;
+
+}
+.container> h1{
+    text-align: center; 
+}
+.flex-box-container{
+
+    display: flex;
+    padding: 5px ;
+    width: 50%;
+    justify-content: center;
+    margin: auto;
+}
+.flex-box-container > div{
+    padding: 10px;
+}
